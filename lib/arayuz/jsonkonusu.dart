@@ -66,6 +66,7 @@ class JsonKonusu extends StatelessWidget {
               return Text("hata ${verileriAl.hasError}");
             }
             return CircularProgressIndicator();
+            // deneme
           },
         ),
       ),
