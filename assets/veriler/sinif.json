@@ -1,0 +1,28 @@
+[
+    {
+        "okulno": 1,
+        "adi": "Yusuf Emir",
+        "soyadi": "Gülsün",
+        "cinsiyet": "Erkek",
+        "basari": true,
+        "veli": {
+            "adi": "Mehmet Şerif",
+            "soyadi": "Gülsün",
+            "yakinlik": "Babası",
+            "telefon": "0553 569 35 23"
+        }
+    },
+    {
+        "okulno": 1,
+        "adi": "Aziz",
+        "soyadi": "Gülsün",
+        "cinsiyet": "Erkek",
+        "basari": true,
+        "veli": {
+            "adi": "Seyfettin",
+            "soyadi": "Gülsün",
+            "yakinlik": "Babası",
+            "telefon": "0553 569 35 23"
+        }
+    }
+]
